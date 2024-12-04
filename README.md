@@ -9,7 +9,7 @@ This project is a currency converter that allows users to convert Brazilian Real
 The layout for this project was created by Rocketseat using Figma. You can view the layout file and its components by visiting the following link: [Figma Layout](https://www.figma.com/design/ggoBg38CTx4Ul9W59YaERW/Conversor-de-Moedas-(Community)?node-id=0-1&node-type=canvas&m=dev).
 
 The layout showcases the structure, color scheme, and visual design of the recipe page, providing a clear reference for the development of the project.
-
+ 
 <br>
 
 ## Project Features ✨
